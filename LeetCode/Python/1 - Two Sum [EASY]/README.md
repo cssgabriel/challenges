@@ -1,4 +1,4 @@
 # Resultados
-<p>Tempo de execução: 124ms, <strong>mais rápido que 21,70%</strong> dos envios online do Python3 para o Palindrome Number.</p>
-<p>Uso de memória: 13,8 MB, <strong>menos de 96,43%</strong> dos envios online do Python3 para Palindrome Number.</p>
-<img href="https://github.com/cssgabriel/challenges/blob/main/LeetCode/Python/9%20-%20Palindrome%20Number%20%5BEASY%5D/Palindrome.png" src="https://github.com/cssgabriel/challenges/blob/main/LeetCode/Python/9%20-%20Palindrome%20Number%20%5BEASY%5D/Palindrome.png" alt="results"/>
+<p>Tempo de execução: 1116ms, <strong>mais rápido que 30,89%</strong> dos envios online do Python3 para Two Sum.</p>
+<p>Uso de memória: 14,9 MB, <strong>menos de 77,26%</strong> dos envios online do Python3 para Two Sum.</p>
+<img href="https://github.com/cssgabriel/challenges/blob/main/LeetCode/Python/1%20-%20Two%20Sum%20%5BEASY%5D/Two%20Sum.png" src="https://github.com/cssgabriel/challenges/blob/main/LeetCode/Python/1%20-%20Two%20Sum%20%5BEASY%5D/Two%20Sum.png" alt="results"/>
