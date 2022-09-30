@@ -32,7 +32,10 @@ body {
 }
 
 .plan-container {
-    padding: 30px;
+    padding: 0 30px;
+    margin-top: 30px;
+    gap: 30px;
+    flex-direction: column;
 }
 
 .plan-img img {
@@ -51,7 +54,6 @@ body {
 
 .plan-description p {
     color: hsl(224, 23%, 55%);
-    margin-bottom: 30px;
 }
 
 .plan-box {
@@ -89,8 +91,22 @@ body {
 }
 
 .plan-container > a {
-    padding: 5px 10px;
-    max-width: 100%;
+    width: 100%;
     display: block;
     text-align: center;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.btn {
+    color:hsl(225, 100%, 98%);
+    border-radius: 10px;
+    padding: 15px 30px;
+    background-color: hsl(224, 23%, 55%);
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.plan-container > a:last-child {
+    color: hsl(223, 47%, 23%);
+    margin-bottom: 60px;
 }
